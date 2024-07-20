@@ -1,0 +1,2 @@
+# HashCodeEquals
+HashCodeEquals no Java
